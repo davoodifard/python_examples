@@ -1,2 +1,2 @@
-# python
-some fun code with python
+# Python examples
+Some funny code with Python
